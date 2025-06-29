@@ -1,3 +1,3 @@
-# hubspot_integration_fastapi
+## Assignment
 
-## To install backend, see the README file in backend folder
+## To run backend and frontend , see the README file in backend  and frontend folder.
