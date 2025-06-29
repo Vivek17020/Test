@@ -1,7 +1,7 @@
 
 In the project directory, you can run:
 
-### 'npm install'
+### `npm install`
 Install all necessary Dependenies
 
 ### `npm start`
